@@ -1,2 +1,1 @@
-Jalankan file build.sh
-#sh build.sh
+Jalankan file build_docker.sh --> sh build_docker.sh
